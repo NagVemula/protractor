@@ -16,6 +16,7 @@ selenium/
 built/
 spec/built/
 node_modules/
+jsFiles/
 website/bower_components/
 website/build/
 website/docgen/build/
